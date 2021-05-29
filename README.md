@@ -1,1 +1,2 @@
-# redux-shopping
+redux-shopping-project
+(practice redux with react)
